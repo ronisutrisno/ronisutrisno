@@ -2,14 +2,14 @@
 
 ## 🛠️ Projects | Proyek
 
-### ProxsisLLM | Enterprise Ready Private LLM Application
+### ProxsisLLM | Secure Enterprise Ready Private LLM Application
 ### Copyright 2026 by Roni Sutrisno and Proxsis AI
 
 > **Default app language / Bahasa default aplikasi:** Bahasa Indonesia
 
 Enterprise-ready AI chat application. FastAPI + React, Open WebUI API, PostgreSQL.
 
-*Aplikasi chat AI siap enterprise. FastAPI + React, Open WebUI API, PostgreSQL.*
+*Aplikasi chat AI yang secure dan siap diterapkan di enterprise. FastAPI + React, Open WebUI API, PostgreSQL.*
 
 ---
 
