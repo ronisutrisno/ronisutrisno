@@ -2,8 +2,8 @@
 
 ## 🛠️ Projects | Proyek
 
-### ProxsisLLM | Enterprise Ready Private LLM Application*
-### Copyright 2026 by Roni Sutrisno and Proxsis AI*
+### ProxsisLLM | Enterprise Ready Private LLM Application
+### Copyright 2026 by Roni Sutrisno and Proxsis AI
 
 > **Default app language / Bahasa default aplikasi:** Bahasa Indonesia
 
