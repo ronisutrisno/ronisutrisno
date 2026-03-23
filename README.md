@@ -126,5 +126,4 @@ Enterprise-ready AI chat application. FastAPI + React, Open WebUI API, PostgreSQ
 ## 📫 Contact
 
 - Email: roni.sutrisno@gmail.com, roni.sutrisno@proxsisgroup.com
-- Whatsapp: +62-813-839-33113
 - GitHub: [@ronisutrisno](https://github.com/ronisutrisno)
